@@ -1,0 +1,7 @@
+print("CS151 Lab ")
+print("Jenna")
+print("brown hair")
+print("brown eyes")
+print("short")
+print("freckles")
+print("green shirt")
